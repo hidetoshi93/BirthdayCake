@@ -67,7 +67,7 @@ $vanilla: #f0e4d0;
 $chocolate: #553c13;
 
 body {
-  background-color: #333;
+  background-color: rgba(0, 0, 0, 1);
 }
 
 @mixin foodColoring($color) {
