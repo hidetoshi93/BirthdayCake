@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "text": "Hue 誕生日おめでとう",
+      "image": "/src/assets/images/1.jpg"
+    },
+    {
+      "text": "いつも優しく支えてくれて、ありがとうね",
+      "image": "/src/assets/images/2.jpg"
+    },
+    {
+      "text": "今日は会えないけど、来週の会う際に一緒に楽しく祝いしましょう!!",
+      "image": "/src/assets/images/3.jpg"
+    }
+  ]
+}
