@@ -13,7 +13,7 @@
 
 .box {
   width: 100%;
-  max-width: 400px;
+  max-width: 200px;
   margin: 20px;
   padding: 10px;
   border: 1px solid white;
@@ -24,12 +24,12 @@
 
 .auto-fit-image {
   max-width: 100%;
-  height: 70vh;
+  height: auto;
 }
 
 .greetings-text {
   font-family: Hui;
-  font-size: 2rem;
+  font-size: 0.75rem;
   color: gold;
 }
 
