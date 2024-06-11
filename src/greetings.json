@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "text": "Hue 誕生日おめでとう",
-      "image": "image/1.jpg"
+      "text": "加藤さん、誕生日おめでとう!!!",
+      "imageName": "1.jpg"
     },
     {
-      "text": "いつも優しく支えてくれて、ありがとうね",
-      "image": "image/2.jpg"
+      "text": "いつも優しく私たちを支えてくれて、ありがとう。",
+      "imageName": "2.jpg"
     },
     {
-      "text": "今日は会えないけど、来週の会う際に一緒に楽しく祝いしましょう!!",
-      "image": "image/3.jpg"
+      "text": "仕事を無理せず、これからも元気な加藤さんでいてね。",
+      "imageName": "3.jpg"
     }
   ]
 }
